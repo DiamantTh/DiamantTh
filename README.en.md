@@ -10,11 +10,12 @@ The repositories below are not a polished product lineup. They are examples of t
 
 | Project | Technology | License | Why it exists |
 | --- | --- | --- | --- |
-| [TowerDNS](https://github.com/DiamantTh/TowerDNS) | PHP, Mezzio, Doctrine, Svelte 5, TypeScript | AGPL-3.0-or-later | A self-hostable DNS manager with a shared core and provider adapters, so DNS management doesn't have to be tied unnecessarily to a single provider. |
 | [ArborPress](https://github.com/DiamantTh/ArborPress) | Python, Quart/ASGI, SQLAlchemy, SvelteKit | AGPL-3.0 | A security-focused blogging and mini-CMS experiment: WebAuthn/FIDO2 first, separate public and administrative identities, a small core, and as few external runtime dependencies as possible. |
 | [HomeClaim](https://github.com/DiamantTh/HomeClaim) | Kotlin/JVM, Gradle, Paper/Folia, SvelteKit | AGPL-3.0 | An open, modular plot and region framework for Minecraft, with regions, roles, policies, flags, and extensions instead of a lasting dependency on closed or paid plugins. |
-| [Visotaris OPMod](https://github.com/DiamantTh/visotaris-opmod) | Kotlin/JVM, Fabric, Gradle, Svelte | AGPL-3.0-or-later | A free client mod for OPSUCHT. It offers a self-controlled, open-source alternative to a proprietary mod and room for my own convenience and analysis features. |
 | [LexNova](https://github.com/DiamantTh/LexNova) | PHP, Mezzio, Doctrine DBAL, Svelte 5 | AGPL-3.0-or-later | An experiment in centrally managing, versioning, and publishing legal notice and privacy texts, with clear control over data and infrastructure. |
+| [NovariusIRC](https://github.com/DiamantTh/NovariusIRC) | Python 3.12+, Tornado, SQLAlchemy, Alembic, Typer | AGPL-3.0-or-later | A modular, multilingual IRC bot/daemon for self-hosting: a modern, extensible architecture for multiple instances and isolated container deployments, with RSS, moderation, and role-based permissions instead of a historically grown monolith. |
+| [TowerDNS](https://github.com/DiamantTh/TowerDNS) | PHP, Mezzio, Doctrine, Svelte 5, TypeScript | AGPL-3.0-or-later | A self-hostable DNS manager with a shared core and provider adapters, so DNS management doesn't have to be tied unnecessarily to a single provider. |
+| [Visotaris OPMod](https://github.com/DiamantTh/visotaris-opmod) | Kotlin/JVM, Fabric, Gradle, Svelte | AGPL-3.0-or-later | A free client mod for OPSUCHT. It offers a self-controlled, open-source alternative to a proprietary mod and room for my own convenience and analysis features. |
 
 I'm also interested in self-hosting, Linux, IRC, open web technologies, running my own servers, and small technical ideas that don't need a business plan before they can be tried. I use AI-assisted development and “vibecoding” as tools: to test ideas sooner, learn new stacks, and build things that might otherwise have stayed as notes. They don't replace thinking or review; they often make it quicker to get to a first working attempt.
 
