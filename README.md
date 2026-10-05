@@ -2,18 +2,6 @@
 
 Ich baue, hoste und zerlege gerne Dinge selbst: freie Software, kleine und größere Web-Anwendungen, Minecraft-Mods, Server-Dienste und technische Experimente. Nicht alles davon soll ein fertiges Produkt werden. Vieles beginnt mit einer Frage wie: *Warum ist das an einen Anbieter gebunden – und wie würde eine offene Variante aussehen?*
 
-<p>
-  <a href="https://github.com/DiamantTh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-DiamantTh-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://git.diath.systems"><img alt="Eigener Git-Dienst" src="https://img.shields.io/badge/Git-diath.systems-F05032?style=for-the-badge&logo=git" /></a>
-  <a href="https://keybase.io/diamantthomy"><img alt="Keybase" src="https://img.shields.io/badge/Keybase-diamantthomy-33A0FF?style=for-the-badge&logo=keybase" /></a>
-  <a href="https://x.com/DiamantThomy"><img alt="X" src="https://img.shields.io/badge/X-%40DiamantThomy-000000?style=for-the-badge&logo=x" /></a>
-  <a href="https://www.reddit.com/user/diamantth/"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-u%2Fdiamantth-FF4500?style=for-the-badge&logo=reddit" /></a>
-  <a href="https://www.youtube.com/@DiamantTh"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%40DiamantTh-FF0000?style=for-the-badge&logo=youtube" /></a>
-  <a href="https://www.twitch.tv/diamantth"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-diamantth-9146FF?style=for-the-badge&logo=twitch" /></a>
-  <a href="https://www.facebook.com/DiamantThomy"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-DiamantThomy-1877F2?style=for-the-badge&logo=facebook" /></a>
-  <a href="https://suno.com/profile/@diamantth"><img alt="Suno" src="https://img.shields.io/badge/Suno-%40diamantth-171717?style=for-the-badge&logo=suno" /></a>
-</p>
-
 ## Woran ich gerade praktisch arbeite
 
 Die folgenden Repositories sind keine Hochglanz-Produktpalette. Sie sind Beispiele dafür, was ich selbst ausprobieren, verstehen und offen weiterentwickeln möchte – vom Prototyp bis zu Projekten, die sich noch bewegen dürfen.
@@ -56,10 +44,12 @@ Das berührt auch Fragen der gesellschaftlichen Teilhabe. Inklusion, Barrierefre
 
 Gaming ist für mich nicht nur Spielen. Ich mag Mods, Community-Projekte, eigene Server, technische Anpassungen und die Frage, wie Spiele auch außerhalb eines einzelnen Plattformbetreibers weiterleben können. Minecraft und Pokémon gehören dazu, ebenso Linux-Gaming, Modding und die Bewahrung älterer Spiele.
 
-<p>
-  <a href="https://steamcommunity.com/id/DiamantThomy"><img alt="Steam" src="https://img.shields.io/badge/Steam-DiamantThomy-171A21?style=for-the-badge&logo=steam" /></a>
-  <a href="https://www.gog.com/u/DiamantTh"><img alt="GOG" src="https://img.shields.io/badge/GOG-DiamantTh-86328A?style=for-the-badge&logo=gog.com" /></a>
-</p>
+## Links
+
+- 💻 [GitHub](https://github.com/DiamantTh) · [Git / diath.systems](https://git.diath.systems) · [Keybase](https://keybase.io/diamantthomy)
+- 🗨️ [X](https://x.com/DiamantThomy) · [Reddit](https://www.reddit.com/user/diamantth/) · [Facebook](https://www.facebook.com/DiamantThomy)
+- ▶️ [YouTube](https://www.youtube.com/@DiamantTh) · 🎮 [Twitch](https://www.twitch.tv/diamantth) · 🎵 [Suno](https://suno.com/profile/@diamantth)
+- 🕹️ [Steam](https://steamcommunity.com/id/DiamantThomy) · [GOG](https://www.gog.com/u/DiamantTh)
 
 ---
 
