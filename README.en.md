@@ -1,8 +1,8 @@
-# DiamantTh / DiamantThomy / DT
+# DiamantTh — Free Software, Self-Hosting & Technical Experiments
 
 [Deutsch](README.md) | English
 
-I like building, hosting, and taking things apart myself: free software, web applications of all sizes, Minecraft mods, server services, and technical experiments. Not everything I make is meant to become a finished product. Many things start with a question like: *Why is this tied to one provider, and what would an open version look like?*
+Many of my projects start with a need of my own or a question I can't quite let go: Why is something unnecessarily closed, restricted, or tied to a single provider? I like trying out what a more open solution, with more control, could look like.
 
 ## What I'm working on
 
