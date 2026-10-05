@@ -1,5 +1,7 @@
 # DiamantTh / DiamantThomy / DT
 
+Deutsch | [English](README.en.md)
+
 Ich baue, hoste und zerlege gerne Dinge selbst: freie Software, kleine und größere Web-Anwendungen, Minecraft-Mods, Server-Dienste und technische Experimente. Nicht alles davon soll ein fertiges Produkt werden. Vieles beginnt mit einer Frage wie: *Warum ist das an einen Anbieter gebunden – und wie würde eine offene Variante aussehen?*
 
 ## Woran ich gerade praktisch arbeite
